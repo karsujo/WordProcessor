@@ -1,0 +1,1 @@
+young:juvenile,shop:store,cafe:diner,cricket:baseball,British:American,ale:beer,biscuit:cookie,flat:apartment,motorway:highway,shops:stores,cinema:theater,football:soccer,pub:bar,garden:backyard,theatre:theater
