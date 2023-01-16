@@ -4,9 +4,6 @@
 ## ANT Commands 
  **Note: build.xml is present in wordProcessor/src folder.**
 
- **IMPORTANT! : Run all the following commands from the ~/cs542-fall-22-assign4-team-kshanmu1-ymakwan1/ directory**
-
-
 #### Instruction to clean:
 
 **Command: ant -buildfile wordProcessor/src/build.xml clean**
